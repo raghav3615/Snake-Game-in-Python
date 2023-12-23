@@ -14,3 +14,6 @@ Control the snake using the arrow keys (up, down, left, right) to navigate and e
 
 # Requirements:
 Python 3.x
+
+# Demo 
+![image](https://github.com/raghav3615/Snake-Game-in-Python/assets/153370098/551f5666-6d8c-48d1-b38a-e948b291a72f)
